@@ -1,11 +1,16 @@
 # 🧠 Brain Tumor Detection and Segmentation with YOLOv2 and Medical SAM
-Bu proje, beyin tümörü bulunan MRI görüntülerinde tümör bölgelerini tespit etmek ve bu bölgeleri segment etmek amacıyla gerçekleştirilmiştir. Derin öğrenme tabanlı bu sistemde, tümörler öncelikle YOLOv2 nesne tespiti algoritması ile belirlenmiş, ardından tespit edilen bölgeler Medical SAM (Segment Anything Model) kullanılarak detaylı bir şekilde boyanmıştır.
+Bu proje, beyin tümörü bulunan MRI görüntülerinde tümör bölgelerini tespit etmek ve bu bölgeleri segment etmek amacıyla gerçekleştirilmiştir. Derin öğrenme tabanlı bu sistemde, tümörler öncelikle YOLOv2 nesne tespiti algoritması ile belirlenmiş, ardından tespit edilen bölgeler Medical SAM (Segment Anything Model) kullanılarak detaylı bir şekilde boyanmıştır. Modeller, proje raporu ve uygulama dosyası drive'a yüklenmiştir. İncelemek için aşağıdaki linkten erişim sağlayabilirsiniz.
+
+Proje drive linki: https://drive.google.com/drive/folders/1f8lXjF2bvg5KqFYLnmnHSdfCsLxRwTXB?usp=sharing
 
 📁 Proje Yapısı
 
 📂Models
+
 📂Kaynakça
+
 📄yolovGUI.mlapp
+
 📄DerinÖğrenmeRapor
 
 ###👥 Ekip
