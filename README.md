@@ -10,6 +10,7 @@ Bu proje, beyin tümörü bulunan MRI görüntülerinde tümör bölgelerini tes
 
 ###👥 Ekip
 Bu proje, Derin Öğrenme dersi kapsamında 5 kişilik bir ekip tarafından geliştirilmiştir. Her ekip üyesi farklı bir ağ modeli eğitip nesne tespiti gerçekleştirmiştir.
+Ben bu projede SqueezeNet modelini eğittim ve MATLAB App Designer kullanarak uygulama arayüzünü geliştirdim.
 
 Modeller:
 
