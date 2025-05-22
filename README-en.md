@@ -1,5 +1,8 @@
 # 🧠 Brain Tumor Detection and Segmentation with YOLOv2 and Medical SAM
 This project aims to detect and segment brain tumor regions in MRI images. In this deep learning-based system, tumors are first detected using the YOLOv2 object detection algorithm. The detected regions are then segmented in detail using Medical SAM (Segment Anything Model for Medical Images).
+Models, project documentation and applicaiton file are uploaded to Google Drive. It can be accessed via lnik below.
+
+Project Drive Link: https://drive.google.com/drive/folders/1f8lXjF2bvg5KqFYLnmnHSdfCsLxRwTXB?usp=sharing
 
 ## 📁 Project Structure
 📂 Models   
